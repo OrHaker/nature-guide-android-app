@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main_page"
+            android:icon="@drawable/ic_message"
+            android:title="דף ראשי" />
+        <item
+            android:id="@+id/nav_Favorites"
+            android:icon="@drawable/ic_message"
+            android:title="מועדפים" />
+
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_message"
+            android:title="מפה" />
+        <item
+            android:id="@+id/nav_add_location"
+            android:icon="@drawable/ic_account"
+            android:title="הוסף מיקום" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account"
+            android:title="פרופיל" />
+        <item
+            android:id="@+id/nav_logOut"
+            android:icon="@drawable/ic_account"
+            android:title="התנתק" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="שתף" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="שלח" />
+        </menu>
+    </item>
+</menu>

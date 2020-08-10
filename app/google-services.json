@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995874412071",
+    "firebase_url": "https://nature-guide.firebaseio.com",
+    "project_id": "nature-guide",
+    "storage_bucket": "nature-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995874412071:android:6fd0abd33817044619a002",
+        "android_client_info": {
+          "package_name": "com.example.natureguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995874412071-2ksr1bg9e9emuj9kcc3gjdjp8cilakps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.natureguide",
+            "certificate_hash": "b2610856ecf1130350eafee4b060c199f3e89f2e"
+          }
+        },
+        {
+          "client_id": "995874412071-21bepkf5ucrfijeqoslul492easgb5rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1b3HNnM_PSlgnWNX_cL5tc5sT9oHjuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995874412071-21bepkf5ucrfijeqoslul492easgb5rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
